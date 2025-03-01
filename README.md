@@ -7,7 +7,7 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sooh329&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/sooh329"
-      width="400"
+      width="600"
       height="120"
     />
   </a>
