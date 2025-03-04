@@ -3,11 +3,11 @@
 <div style="display: flex; align-items: center;">
 
   <a href="https://github.com/sooh329/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sooh329&show_icons=true&theme=ambient_gradient" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sooh329&show_icons=true&theme=ambient_gradient" height="150" />
   </a>
 
   <a href="https://github.com/sooh329/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooh329&layout=compact" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooh329&layout=compact" height="150" />
   </a>
   
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sooh329&utm_content=line">
