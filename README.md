@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Soohyun's%20github&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Soohyun's%20Github&fontSize=50" />
 
 ### 💚GITHUB STATS
 <div style="display: flex; align-items: center;">
