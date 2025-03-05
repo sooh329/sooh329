@@ -14,13 +14,13 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sooh329&utm_content=line">
     <img
       src="https://render.gitanimals.org/lines/sooh329?pet-id=652355306401286737"
-      width="430"
+      width="410"
     />
   </a>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sooh329&utm_content=line">
     <img
       src="https://render.gitanimals.org/lines/sooh329?pet-id=652355305105252516"
-      width="430"
+      width="410"
     />
   </a>
   
