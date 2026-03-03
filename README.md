@@ -2,11 +2,11 @@
 
 ### 💚GITHUB STATS
   <a href="https://github.com/sooh329/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sooh329&show_icons=true&theme=ambient_gradient" height="180" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sooh329&show_icons=true&theme=ambient_gradient" height="190" />
   </a>
 
   <a href="https://github.com/sooh329/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooh329&layout=compact" height="180" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sooh329&layout=compact" height="190" />
   </a>
 
 ### 💚GIT ANIMALS
