@@ -1,0 +1,26 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # 매일 자정 자동 갱신
+  workflow_dispatch: # 수동으로 즉시 실행 버튼 활성화
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # 기본 정보 설정
+          base: header, community, repositories, metadata
+          base_indepth: yes # 상세 분석 모드 (중요!)
+          
+          # 언어 통계 설정 (Organization/Fork 반영 포함)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss # 프레임워크 위주로 보기 위해 제외
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          
+          # 포크 및 조직 레포지토리 포함 설정
+          repositories_forks: yes # 포크한 레포 포함
+          plugin_languages_sections: most-used
+          plugin_languages_recent_load: 300
