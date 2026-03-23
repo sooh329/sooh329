@@ -2,6 +2,8 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}] # 매일 자정 자동 갱신
   workflow_dispatch: # 수동으로 즉시 실행 버튼 활성화
+permissions:
+  contents: write
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
